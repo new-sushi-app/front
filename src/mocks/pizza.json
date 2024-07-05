@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "image": "sushi.jpeg",
+    "weight": 555,
+    "title": "Sushi fun",
+    "ingredients": "Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+    "price": 350
+  },
+  {
+    "id": 2,
+    "image": "sushi.jpeg",
+    "weight": 555,
+    "title": "Sushi fun",
+    "ingredients": "Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+    "price": 350
+  },
+  {
+    "id": 3,
+    "image": "sushi.jpeg",
+    "weight": 555,
+    "title": "Sushi fun",
+    "ingredients": "Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+    "price": 350
+  },
+  {
+    "id": 4,
+    "image": "sushi.jpeg",
+    "weight": 555,
+    "title": "Sushi fun",
+    "ingredients": "Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+    "price": 350
+  },
+  {
+    "id": 5,
+    "image": "sushi.jpeg",
+    "weight": 555,
+    "title": "Sushi fun",
+    "ingredients": "Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+    "price": 350
+  },
+  {
+    "id": 6,
+    "image": "sushi.jpeg",
+    "weight": 555,
+    "title": "Sushi fun",
+    "ingredients": "Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+    "price": 350
+  }
+]
