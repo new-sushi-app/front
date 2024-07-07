@@ -11,7 +11,7 @@ const Template: StoryFn<typeof MenuItem> = (args) => <MenuItem {...args} />;
 export const View = Template.bind({});
 
 View.args = {
-  imagePath: "/assets/sushi/sushi.jpeg",
+  imagePath: "/assets/sushi/yamamoto.jpeg",
   weight: 330,
   title: "Sushi fun",
   ingredients: "Lorem ipsum dolor sit amet, consectetur adipisicing elit",
